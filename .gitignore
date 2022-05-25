@@ -1,0 +1,6 @@
+/build
+/Deployment/*.frag
+/Deployment/*.vert
+/Deployment/*.exe
+/.log
+/.cache
